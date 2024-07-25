@@ -1,0 +1,14 @@
+
+{
+  "name": "garden-finance-testnet",
+  "version": "1.0.0",
+  "description": "Garden Finance SDK integration example for testnet",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "garden-finance-sdk": "^1.0.0"
+  }
+}
